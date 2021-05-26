@@ -1,6 +1,6 @@
 # Vaksincovid home page
 
-Build with reactjs + tailwindcss
+Build with reactjs + tailwindcss. Desktop version only. No mobile view (yet).
 
 ## Try out
 
