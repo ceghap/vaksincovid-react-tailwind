@@ -10,25 +10,25 @@ const Nav = () => {
       <div className="container mx-auto max-w-6xl justify-end space-y-1">
         <div className="flex justify-end cursor-pointer">
           <a
-            href="#"
+            href="https://ceghap.com"
             className="border border-indigo-900 bg-vaksin-indigo text-white font-bold text-sm px-2 py-0"
           >
             BM
           </a>
           <a
-            href="#"
+            href="https://ceghap.com"
             className="border border-indigo-900 font-bold text-sm text-vaksin-indigo px-2 py-0 hover:bg-indigo-900 hover:text-white"
           >
             EN
           </a>
           <a
-            href="#"
+            href="https://ceghap.com"
             className="border border-indigo-900 font-bold text-sm text-vaksin-indigo px-2 py-0 hover:bg-indigo-900 hover:text-white"
           >
             中文
           </a>
           <a
-            href="#"
+            href="https://ceghap.com"
             className="border border-indigo-900 font-bold text-sm text-vaksin-indigo px-2 py-0 hover:bg-indigo-900 hover:text-white"
           >
             தமிழ்
@@ -36,7 +36,7 @@ const Nav = () => {
         </div>
         <div className="flex justify-end">
           <nav className="font-bold text-sm uppercase text-vaksin-indigo flex items-center cursor-pointer space-x-3 justify-end">
-            <a href="#" className="p-2 inline-block">
+            <a href="https://ceghap.com" className="p-2 inline-block">
               <svg
                 className="svg-inline--fa fa-home fa-w-18 h-4"
                 aria-hidden="true"
@@ -57,31 +57,34 @@ const Nav = () => {
             <span>
               {" "}
               <a
-                href="#"
+                href="https://ceghap.com"
                 className="text-white bg-vaksin-green-light p-2 font-bold"
               >
                 Daftar
               </a>
               <a
-                href="#"
+                href="https://ceghap.com"
                 className="text-white bg-vaksin-green-dark p-2 font-bold"
               >
                 Semak
               </a>
             </span>
 
-            <a href="#" className="p-2 flex items-center space-x-2">
+            <a
+              href="https://ceghap.com"
+              className="p-2 flex items-center space-x-2"
+            >
               <span>Statistik & maklumat</span>
               <ChevronDown />
             </a>
-            <a href="#" className="p-2">
+            <a href="https://ceghap.com" className="p-2">
               soalan lazim
             </a>
-            <a href="#" className="p-2 flex space-x-2">
+            <a href="https://ceghap.com" className="p-2 flex space-x-2">
               <span>tentang kami</span>
               <ChevronDown />
             </a>
-            <a href="#" className="p-2 flex space-x-2">
+            <a href="https://ceghap.com" className="p-2 flex space-x-2">
               <span>maklumat lain</span>
               <ChevronDown />
             </a>

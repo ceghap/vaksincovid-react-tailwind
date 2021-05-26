@@ -7,20 +7,37 @@ const Footer = () => {
             info terikini di sini!
           </h3>
           <div className="mt-5 flex h-10 space-x-3">
-            <a href="#">
-              <img className="h-10 w-10" src="/images/footer_facebook.png" />
-            </a>
-            <a href="#">
-              <img className="h-10 w-10" src="/images/footer_instagram.png" />
-            </a>
-            <a href="#">
-              <img className="h-10 w-10" src="/images/footer_twitter.png" />
-            </a>
-            <a href="#">
-              <img className="h-10 w-10" src="/images/footer_youtube.png" />
-            </a>
-            <a href="#">
+            <a href="https://ceghap.com">
               <img
+                alt="facebook icon"
+                className="h-10 w-10"
+                src="/images/footer_facebook.png"
+              />
+            </a>
+            <a href="https://ceghap.com">
+              <img
+                alt="instagram icon"
+                className="h-10 w-10"
+                src="/images/footer_instagram.png"
+              />
+            </a>
+            <a href="https://ceghap.com">
+              <img
+                alt="twitter icon"
+                className="h-10 w-10"
+                src="/images/footer_twitter.png"
+              />
+            </a>
+            <a href="https://ceghap.com">
+              <img
+                alt="youtube icon"
+                className="h-10 w-10"
+                src="/images/footer_youtube.png"
+              />
+            </a>
+            <a href="https://ceghap.com">
+              <img
+                alt="telegram icon"
                 className="h-10 w-10"
                 src="/images/footer_telegram-logo.png"
               />
@@ -31,7 +48,10 @@ const Footer = () => {
           <p className="text-indigo-900 text-sm font-semibold">
             Untuk sebarang pertanyaan atau aduan, sila hubungi:
           </p>
-          <a href="#" className="text-blue-500 underline text-sm font-semibold">
+          <a
+            href="https://ceghap.com"
+            className="text-blue-500 underline text-sm font-semibold"
+          >
             info@vaksincovid.gov.my
           </a>
         </div>

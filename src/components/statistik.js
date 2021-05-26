@@ -142,7 +142,7 @@ const Statistik = () => {
             </p>
           </div>
           <a
-            href="#"
+            href="https://ceghap.com"
             className="bg-vaksin-indigo cursor-pointer  text-white hover:bg-blue-500 uppercase px-4 py-2 flex items-center justify-center font-bold"
           >
             <ArrowRight /> <span>Daftar Sekarang</span>
@@ -305,7 +305,7 @@ const Statistik = () => {
             </tbody>
           </table>
           <a
-            href="#"
+            href="https://ceghap.com"
             className="bg-vaksin-indigo cursor-pointer  text-white hover:bg-blue-500 uppercase px-4 py-2 mt-2 flex items-center justify-center font-bold"
           >
             <ArrowRight /> <span>Statistik Terperinci</span>

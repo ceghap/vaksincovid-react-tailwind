@@ -13,14 +13,14 @@ const Hero = () => {
         </div>
 
         <a
-          href="#"
+          href="https://ceghap.com"
           className="bg-white cursor-pointer text-vaksin-indigo hover:bg-gray-100 uppercase px-4 py-2 flex items-center font-bold"
         >
           <ArrowRight /> <span>Maklumat tepat</span>
         </a>
       </div>
       <div className="overflow-hidden md:-mb-96">
-        <img src="/images/az-bottle.png" />
+        <img alt="az bottle" src="/images/az-bottle.png" />
       </div>
     </div>
   );

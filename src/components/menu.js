@@ -7,13 +7,13 @@ const Menu = () => {
         Maklumat lanjut
       </div>
       <div className="text-vaksin-indigo flex justify-between col-span-5 py-4 px-8 font-bold uppercase text-sm cursor-pointer">
-        <a href="#">soalan lazim</a>
-        <a href="#">penerbitan</a>
-        <a href="#">video</a>
-        <a href="#">berita</a>
-        <a href="#">tentang jkjav</a>
-        <a href="#">tentang citf</a>
-        <a href="#" className="flex space-x-8 items-center">
+        <a href="https://ceghap.com">soalan lazim</a>
+        <a href="https://ceghap.com">penerbitan</a>
+        <a href="https://ceghap.com">video</a>
+        <a href="https://ceghap.com">berita</a>
+        <a href="https://ceghap.com">tentang jkjav</a>
+        <a href="https://ceghap.com">tentang citf</a>
+        <a href="https://ceghap.com" className="flex space-x-8 items-center">
           <span>tajaan koporat</span> <ChevronRight />
         </a>
       </div>

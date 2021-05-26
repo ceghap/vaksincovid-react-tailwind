@@ -55,7 +55,7 @@ const Info = () => {
           dan yang tersayang.
         </p>
         <a
-          href="#"
+          href="https://ceghap.com"
           className="bg-vaksin-green-light cursor-pointer text-white hover:bg-vaksin-green-dark uppercase px-4 py-2 inline-flex items-center font-bold"
         >
           <ArrowRight /> <span>Daftar Sekarang</span>
