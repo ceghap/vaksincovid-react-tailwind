@@ -1,13 +1,39 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-stat-2 {
+  background-color: rgb(155, 170, 68);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bg-stat-3 {
+  background-color: rgb(187, 172, 78);
+}
+
+.bg-stat-4 {
+  background-color: rgb(255, 157, 60);
+}
+
+.bg-stat-5 {
+  background-color: rgb(255, 93, 60);
+}
+
+.bg-vaksin-green-light {
+  background-color: rgb(60, 182, 76);
+}
+
+.bg-vaksin-green-dark {
+  background-color: rgb(31, 130, 44);
+}
+
+.text-vaksin-green-light {
+  color: rgb(60, 182, 76);
+}
+
+.text-vaksin-indigo {
+  color: rgb(41, 37, 95);
+}
+
+.bg-vaksin-indigo {
+  background-color: rgb(41, 37, 95);
 }
