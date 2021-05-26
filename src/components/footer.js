@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="bg-white mt-6 p-6 relative">
+    <div className="bg-white mt-6 p-6 relative overflow-hidden">
       <div className="container mx-auto max-w-6xl grid grid-cols-2">
         <div>
           <h3 className="text-indigo-900 uppercase text-sm font-bold">
@@ -56,7 +56,7 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      <div className="w-full absolute right-0 bottom-0 flex justify-end">
+      <div className="w-full absolute right-0 -bottom-6 flex justify-end">
         <div className="w-20 h-16 bg-indigo-900 transform -skew-x-12 translate-x-2"></div>
         <div className="w-96 h-16 bg-indigo-900 "></div>
         <div className="w-96 h-16 bg-indigo-900 "></div>
