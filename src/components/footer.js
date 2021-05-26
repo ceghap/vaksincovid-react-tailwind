@@ -57,9 +57,9 @@ const Footer = () => {
         </div>
       </div>
       <div className="w-full absolute right-0 -bottom-6 flex justify-end">
-        <div className="w-20 h-16 bg-indigo-900 transform -skew-x-12 translate-x-2"></div>
         <div className="w-96 h-16 bg-indigo-900 "></div>
         <div className="w-96 h-16 bg-indigo-900 "></div>
+        <div className="w-20 h-16 bg-indigo-900 "></div>
       </div>
     </div>
   );

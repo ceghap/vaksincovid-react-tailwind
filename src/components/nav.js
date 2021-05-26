@@ -5,7 +5,6 @@ const Nav = () => {
     <nav className="flex items-end bg-white pt-5">
       <div className="bg-indigo-900 absolute flex left-0 top-0">
         <div className="bg-indigo-900 h-20 w-80"></div>
-        <div className="bg-indigo-900 h-20 w-24 transform translate-x-4 -skew-x-12"></div>
       </div>
       <div className="container mx-auto max-w-6xl justify-end space-y-1">
         <div className="flex justify-end cursor-pointer">
